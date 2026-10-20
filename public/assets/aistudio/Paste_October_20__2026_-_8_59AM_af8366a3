@@ -1,0 +1,698 @@
+# WEB CREATION — PROMPT MASTER PARA CRIAR UM SITE PROFISSIONAL DO ZERO
+
+## 1. OBJETIVO DO PROJETO
+
+Crie um site completo, moderno, autoral e funcional para a **Web Creation**, uma marca pessoal de desenvolvimento web que cria sites para negócios, profissionais e projetos independentes.
+
+Você será responsável por todo o processo: direção de arte, identidade visual, UX/UI, arquitetura das páginas, redação dos textos, desenvolvimento front-end, interações, responsividade, acessibilidade, desempenho e otimização para mecanismos de busca.
+
+Não quero um template convencional de agência digital, uma landing page genérica ou uma interface que apenas combine tendências visuais populares.
+
+Quero um site com personalidade própria, aparência cuidadosamente projetada, conteúdo convincente e atenção real aos detalhes.
+
+**Crie um projeto novo, com uma identidade visual consistente, mas sem reproduzir a estrutura ou o layout do site anterior.**
+
+O resultado deve parecer o portfólio de um desenvolvedor que entende de programação, design e comunicação visual, e não uma demonstração automática de componentes de uma biblioteca.
+
+### Informações da marca
+
+- Nome: Web Creation.
+- Responsável: Luiz Miguel.
+- Área: desenvolvimento web, programação e design de interfaces.
+- Contexto profissional: estudante de Desenvolvimento de Sistemas e Informática na ETEC.
+- Público: pequenos negócios, profissionais autônomos, empreendedores e pessoas que precisam apresentar seus serviços ou projetos na internet.
+- Idioma: português brasileiro.
+- Objetivo comercial: apresentar o trabalho, demonstrar competências reais e facilitar o contato de potenciais clientes.
+
+Não invente clientes, empresas atendidas, prêmios, certificações, números de vendas, métricas, depoimentos ou anos de experiência.
+
+A marca deve transmitir competência e personalidade por meio do trabalho apresentado, não de alegações exageradas.
+
+---
+
+## 2. DIREÇÃO DE ARTE: UM VISUAL AUTORAL, NÃO UM TEMPLATE
+
+Desenvolva uma estética que combine design editorial contemporâneo, portfólio independente, tipografia marcante e referências sutis do universo de desenvolvimento web.
+
+A identidade visual deve ser reconhecível, mas não precisa recorrer a efeitos futuristas para demonstrar que se trata de uma marca de tecnologia.
+
+### Paleta de cores
+
+Utilize uma base visual predominantemente escura:
+
+- Preto profundo como fundo principal.
+- Tons quase pretos para diferenciar áreas.
+- Cinza escuro para superfícies.
+- Branco suave para títulos.
+- Cinza claro para textos secundários.
+- Roxo como cor principal de destaque.
+- Lilás em pequenos detalhes, apenas quando necessário.
+
+O roxo deve aparecer principalmente em links importantes, detalhes tipográficos, indicadores e chamadas para ação.
+
+Evite transformar toda a interface em uma composição de gradientes roxos.
+
+### Tipografia
+
+Escolha uma família tipográfica contemporânea, com excelente legibilidade e personalidade.
+
+Utilize uma hierarquia clara entre títulos, subtítulos, descrições, rótulos e informações complementares.
+
+Os títulos podem ser grandes e expressivos, mas devem respeitar o espaço disponível e a leitura em dispositivos móveis.
+
+Prefira uma combinação tipográfica enxuta. Não use muitas fontes diferentes.
+
+Se escolher fontes externas, implemente seu carregamento de maneira eficiente e mantenha alternativas adequadas.
+
+### Linguagem visual
+
+O design precisa apresentar:
+
+- Composições assimétricas quando isso beneficiar a página.
+- Espaçamento cuidadosamente planejado.
+- Divisórias sutis.
+- Imagens reais dos projetos, quando disponíveis.
+- Variação de ritmo entre as seções.
+- Hierarquia visual evidente.
+- Detalhes discretos que reforcem a identidade da marca.
+- Elementos interativos com comportamentos previsíveis.
+
+Evite a aparência excessivamente polida, repetitiva e artificial de templates que apresentam os mesmos padrões em todas as páginas.
+
+Não transforme cada informação em um cartão arredondado.
+
+Não coloque um ícone em todo título.
+
+Não aplique gradiente em cada palavra importante.
+
+Não espalhe sombras luminosas pelo site.
+
+Não utilize partículas, linhas de grade, efeitos de vidro ou manchas luminosas apenas para preencher o fundo.
+
+A simplicidade é bem-vinda quando resulta de decisões de design intencionais. O projeto não deve parecer vazio ou inacabado.
+
+---
+
+## 3. ESTRUTURA DO SITE
+
+Crie uma experiência completa, organizada nas seguintes áreas:
+
+1. Cabeçalho e navegação.
+2. Apresentação principal.
+3. Portfólio.
+4. Sobre a Web Creation.
+5. Serviços.
+6. Processo de desenvolvimento.
+7. Perguntas frequentes.
+8. Contato e solicitação de orçamento.
+9. Rodapé.
+
+Todas as áreas devem fazer parte de uma narrativa coerente.
+
+Não desenvolva nove seções visualmente idênticas. Cada uma precisa de uma composição adequada ao seu conteúdo.
+
+O visitante deve conseguir entender o que a Web Creation faz, conhecer os trabalhos, compreender os serviços e iniciar um contato sem precisar procurar essas informações.
+
+---
+
+## 4. CABEÇALHO
+
+Crie um cabeçalho discreto, elegante e funcional.
+
+Apresente a marca Web Creation à esquerda e os links principais à direita:
+
+- Sobre.
+- Projetos.
+- Serviços.
+- Processo.
+- Contato.
+
+Inclua uma chamada para ação de destaque moderado: "Solicitar orçamento".
+
+O logotipo pode ser tipográfico, acompanhado de um símbolo simples criado especificamente para a marca. Evite ícones genéricos utilizados sem uma justificativa visual.
+
+O cabeçalho pode permanecer fixo durante a rolagem, desde que não ocupe espaço excessivo nem prejudique o conteúdo.
+
+Implemente estados visuais de hover e foco, navegação por teclado e um menu apropriado para dispositivos móveis.
+
+Os links devem levar às seções corretas. O menu não pode ser apenas decorativo.
+
+---
+
+## 5. HERO — A PRIMEIRA IMPRESSÃO
+
+Crie uma apresentação principal memorável, com uma direção de arte própria.
+
+A composição deve estabelecer imediatamente o que é a Web Creation e qual tipo de trabalho realiza.
+
+Utilize como referência textual:
+
+**Título principal:**
+
+"Sites bem pensados para negócios reais."
+
+**Descrição:**
+
+"Desenvolvo sites que apresentam seu negócio, organizam suas informações e facilitam o contato com seus clientes."
+
+**Ação principal:** "Vamos conversar sobre seu projeto"
+
+**Ação secundária:** "Conhecer meus projetos"
+
+Adapte a redação para que ela combine naturalmente com o conjunto da página.
+
+Evite frases genéricas como "O futuro começa aqui", "Experiências extraordinárias" e "Transforme seus sonhos em realidade".
+
+### Composição visual
+
+Explore uma composição com tipografia forte e uma prévia de projeto, caso existam recursos visuais adequados.
+
+A imagem pode aparecer ao lado do texto, em uma composição editorial assimétrica ou em uma disposição que atravesse parcialmente a seção.
+
+Não utilize imagens de bancos de imagens de pessoas trabalhando em computadores para preencher espaço.
+
+Priorize imagens da interface de projetos reais.
+
+Se ainda não houver imagens disponíveis, crie uma composição tipográfica e visual elegante, em vez de inventar capturas de sites que supostamente existam.
+
+Utilize animações discretas, caso elas realmente contribuam para a experiência.
+
+A seção precisa ser impactante pela composição e pela clareza, não pela quantidade de efeitos.
+
+---
+
+## 6. PORTFÓLIO — DEMONSTRAR COMPETÊNCIA NA PRÁTICA
+
+O portfólio deve ter grande destaque e ser uma das partes mais importantes do projeto.
+
+Título de referência:
+
+"Projetos que mostram o trabalho."
+
+Descrição de referência:
+
+"Cada projeto tem uma necessidade diferente. A ideia é apresentar soluções visuais e funcionais que façam sentido para cada contexto."
+
+Apresente os trabalhos em uma composição editorial, com variação de tamanhos, proporções e distribuição visual.
+
+Não utilize obrigatoriamente uma grade convencional de três cartões idênticos.
+
+### Projetos disponíveis como referência
+
+**Burger District**
+
+Projeto conceitual de site para uma hamburgueria, com identidade visual gastronômica, cardápio e apresentação de produtos.
+
+A direção visual pode explorar uma composição escura com detalhes inspirados em restaurantes urbanos.
+
+**Atelier Dolce**
+
+Projeto conceitual de site para uma confeitaria, com apresentação de doces, bolos e produtos sob encomenda.
+
+A direção visual pode explorar tons claros, fotografia de produtos e tipografia editorial elegante.
+
+**Reddart**
+
+Projeto identificado como real e publicado, voltado à exploração de capas e álbuns musicais, com uma interface própria e recursos de acesso à plataforma.
+
+Priorize a apresentação da interface real e das funcionalidades verificadas.
+
+Não invente informações sobre usuários, vendas, resultados, tecnologias utilizadas ou desempenho desses projetos.
+
+Caso os arquivos ou URLs dos projetos não estejam disponíveis, prepare uma estrutura que permita inserir as informações posteriormente. Não apresente uma demonstração inventada como se fosse um site publicado.
+
+### Apresentação de cada trabalho
+
+Sempre que as informações estiverem disponíveis, apresente:
+
+- Nome do projeto.
+- Tipo de projeto.
+- Objetivo.
+- Captura de tela real.
+- Principais características.
+- Tecnologias utilizadas, se verificadas.
+- Estado do projeto.
+- Link para acessar ou visualizar a demonstração.
+
+Utilize botões como "Ver projeto" ou "Ver demonstração" somente quando houver um destino real.
+
+Os projetos conceituais devem estar identificados de maneira transparente.
+
+### Tratamento visual
+
+Cada projeto deve ter uma apresentação própria, de acordo com sua identidade.
+
+Não utilize exatamente o mesmo fundo, o mesmo tamanho de imagem, a mesma hierarquia e os mesmos elementos decorativos para todos os trabalhos.
+
+Priorize imagens com boa resolução, proporção adequada e carregamento eficiente.
+
+Crie um efeito de interação discreto nos projetos, sem exagerar no zoom ou nas animações.
+
+Caso seja útil, permita abrir uma apresentação ampliada com mais capturas e informações.
+
+O objetivo é fazer o visitante olhar para os trabalhos, e não ficar distraído pelos efeitos ao redor deles.
+
+---
+
+## 7. SOBRE — APRESENTAR A PESSOA POR TRÁS DA MARCA
+
+Crie uma seção que apresente a Web Creation de maneira pessoal, natural e profissional.
+
+Título de referência:
+
+"Por trás de cada projeto, existe uma ideia."
+
+Texto de referência:
+
+"A Web Creation é meu espaço para transformar ideias em projetos web. Trabalho com programação e design para desenvolver sites que tenham uma identidade própria e funcionem bem no dia a dia."
+
+Apresente Luiz Miguel como responsável pela marca e preserve o contexto real de sua formação em Desenvolvimento de Sistemas e Informática na ETEC.
+
+Adapte o texto às informações disponíveis, sem inventar uma trajetória pessoal.
+
+A seção pode apresentar:
+
+- Um texto breve sobre a abordagem de trabalho.
+- As áreas de interesse relacionadas ao desenvolvimento web.
+- As tecnologias realmente utilizadas nos projetos.
+- Uma fotografia real, caso esteja disponível.
+- Uma captura do ambiente de desenvolvimento, caso seja apropriada.
+- Pequenos exemplos de decisões tomadas durante a criação dos sites.
+
+Se não houver uma fotografia, não invente um retrato realista que sugira ser o desenvolvedor.
+
+Não utilize barras de progresso com percentuais inventados de conhecimento.
+
+Não crie estatísticas de experiência.
+
+A autenticidade desta seção deve vir da especificidade das informações e da apresentação cuidadosa da pessoa responsável.
+
+---
+
+## 8. SERVIÇOS — EXPLICAR O QUE PODE SER DESENVOLVIDO
+
+Crie uma seção de serviços clara e fácil de consultar.
+
+Título de referência:
+
+"Um site para cada necessidade."
+
+Descrição de referência:
+
+"O formato depende do objetivo: apresentar uma empresa, divulgar um serviço, organizar produtos ou melhorar um site existente."
+
+Apresente os seguintes serviços, desde que correspondam efetivamente ao trabalho oferecido:
+
+### Sites institucionais
+
+Sites para apresentar empresas, profissionais, serviços, informações e formas de contato.
+
+### Landing pages
+
+Páginas focadas em apresentar uma oferta, divulgar um serviço ou direcionar visitantes para uma ação específica.
+
+### Catálogos digitais
+
+Apresentações organizadas de produtos e serviços, com informações claras e recursos de navegação apropriados.
+
+### Portfólios profissionais
+
+Sites voltados à apresentação de trabalhos, projetos, habilidades e informações profissionais.
+
+### Reformulação de sites
+
+Atualização da organização, da identidade visual, da experiência de navegação e do funcionamento de sites existentes.
+
+Utilize descrições específicas. Não repita a mesma frase em todos os serviços alterando apenas o nome do produto.
+
+### Layout
+
+Não transforme cada serviço obrigatoriamente em um cartão com ícone, título e descrição.
+
+Experimente uma grade discreta, uma lista editorial ou uma composição que organize os serviços por categoria.
+
+Os elementos devem ter hierarquia clara e boa legibilidade.
+
+Não invente preços ou serviços complementares.
+
+---
+
+## 9. PROCESSO DE DESENVOLVIMENTO
+
+Explique de forma simples o caminho entre uma ideia e um site publicado.
+
+Título de referência:
+
+"Da ideia ao site no ar."
+
+Apresente quatro etapas:
+
+**01 — Conversa**
+
+Entender o negócio, o público e o que o site precisa resolver.
+
+**02 — Planejamento**
+
+Organizar o conteúdo, definir a estrutura e estabelecer a direção visual.
+
+**03 — Desenvolvimento**
+
+Implementar o site, seus componentes, interações e adaptação para diferentes telas.
+
+**04 — Publicação**
+
+Preparar a versão final, testar o funcionamento e publicar conforme a infraestrutura contratada.
+
+Essas descrições devem corresponder ao processo realmente adotado pelo desenvolvedor.
+
+Apresente as etapas como uma sequência clara e elegante.
+
+Pode utilizar números, linhas divisórias e uma disposição horizontal no desktop, adaptada verticalmente no celular.
+
+Não é obrigatório criar quatro cartões iguais.
+
+Evite ícones excessivos, animações decorativas e textos que pareçam retirados de uma apresentação corporativa genérica.
+
+---
+
+## 10. PERGUNTAS FREQUENTES
+
+Crie uma seção curta para esclarecer dúvidas comuns antes do contato.
+
+Título de referência:
+
+"Antes de começar, algumas dúvidas."
+
+Inclua perguntas relevantes:
+
+- Quanto custa desenvolver um site?
+- Quanto tempo leva para concluir um projeto?
+- Preciso contratar domínio e hospedagem?
+- O site funcionará no celular?
+- Posso solicitar alterações depois da publicação?
+- É possível reformular um site que já existe?
+
+Responda em português natural, com clareza e sem promessas comerciais que não tenham sido definidas.
+
+Explique que preço e prazo dependem do escopo quando isso corresponder à forma real de trabalho.
+
+Não invente preços, prazos garantidos, planos ou condições contratuais.
+
+Implemente a seção de maneira acessível, com expansão e recolhimento das respostas somente quando isso fizer sentido.
+
+---
+
+## 11. CONTATO — TRANSFORMAR INTERESSE EM CONVERSA
+
+Crie uma seção de contato marcante, mas visualmente mais simples do que uma chamada publicitária convencional.
+
+Título de referência:
+
+"Tem uma ideia em mente?"
+
+Descrição:
+
+"Conte um pouco sobre seu projeto. Vamos entender o que você precisa e definir como transformar a ideia em um site."
+
+Inclua um botão claro para solicitar orçamento.
+
+Se houver um canal real de contato configurado, utilize-o corretamente. Pode ser WhatsApp, e-mail ou formulário conectado a um serviço funcional.
+
+Não invente números, e-mails ou perfis sociais.
+
+### Formulário
+
+Se for apropriado, implemente um formulário curto com:
+
+- Nome.
+- E-mail ou outro meio de contato.
+- Tipo de projeto.
+- Descrição da ideia.
+
+Prazo e orçamento podem ser campos opcionais.
+
+O formulário deve ter rótulos claros, validação, mensagens de erro úteis e estados visuais acessíveis.
+
+Se existir um backend ou serviço de envio configurado, implemente a integração real e teste-a.
+
+Se não houver uma infraestrutura de envio, não simule um envio bem-sucedido. Deixe clara a configuração necessária e ofereça um caminho de contato que realmente funcione, quando houver informações válidas disponíveis.
+
+A interface deve transmitir profissionalismo, sem obrigar o visitante a preencher informações desnecessárias.
+
+---
+
+## 12. RODAPÉ
+
+Crie um rodapé discreto com:
+
+- Identidade Web Creation.
+- Links para as principais seções.
+- Informações reais de contato, quando disponíveis.
+- Crédito ao responsável pelo projeto.
+- Ano atualizado de maneira confiável.
+- Botão de retorno ao topo, caso contribua para a navegação.
+
+Não invente redes sociais, endereços ou informações comerciais.
+
+Mantenha o visual limpo, com divisórias sutis e uma hierarquia clara.
+
+---
+
+## 13. MICROINTERAÇÕES E DETALHES
+
+Utilize interações sutis para tornar o site agradável de usar.
+
+Considere:
+
+- Transições discretas nos botões.
+- Mudanças suaves na aparência dos links.
+- Realce leve das imagens do portfólio.
+- Estados ativos no menu.
+- Feedback visual dos formulários.
+- Animações de entrada moderadas, somente onde agregarem valor.
+- Transições funcionais em componentes expansíveis.
+
+Evite movimento contínuo de elementos decorativos, partículas, efeitos luminosos pulsantes, zoom exagerado e animações em todos os cartões.
+
+Respeite a preferência `prefers-reduced-motion`.
+
+As animações devem melhorar o feedback e a experiência, sem prejudicar a leitura ou a velocidade percebida.
+
+---
+
+## 14. RESPONSIVIDADE
+
+Desenvolva o site pensando simultaneamente em desktop, tablet e celular.
+
+Não crie primeiro uma página exclusivamente para desktop e simplesmente reduza tudo depois.
+
+Verifique diferentes larguras e garanta que o layout se reorganize adequadamente.
+
+No celular:
+
+- O menu precisa funcionar.
+- Os títulos não podem ultrapassar a tela.
+- Os parágrafos precisam continuar legíveis.
+- Os cartões devem se reorganizar sem apertar o conteúdo.
+- Os botões precisam ter áreas de toque confortáveis.
+- As imagens não podem deformar ou cortar informações relevantes.
+- Os formulários precisam ser simples de preencher.
+- O cabeçalho não pode cobrir as seções.
+- Não pode existir rolagem horizontal acidental.
+
+Use CSS responsivo apropriado, com dimensões flexíveis e pontos de quebra justificados pelo layout.
+
+Não reduza excessivamente o tamanho da fonte para fazer tudo caber.
+
+---
+
+## 15. ACESSIBILIDADE
+
+Implemente os fundamentos de acessibilidade desde o início.
+
+Garanta:
+
+- HTML semântico.
+- Hierarquia correta de títulos.
+- Contraste adequado.
+- Textos alternativos nas imagens relevantes.
+- Navegação por teclado.
+- Foco visível.
+- Formulários com rótulos.
+- Nomes compreensíveis para botões.
+- Estados acessíveis de menus e componentes expansíveis.
+- Feedback de validação identificável.
+- Respeito às preferências de movimento reduzido.
+
+Não dependa exclusivamente da cor para comunicar estados.
+
+Não remova o contorno de foco sem oferecer uma alternativa visível.
+
+---
+
+## 16. DESEMPENHO E SEO
+
+Construa um site rápido e tecnicamente organizado.
+
+Otimize imagens, fontes, scripts e dependências.
+
+Utilize dimensões explícitas para imagens quando apropriado, evitando mudanças inesperadas no layout durante o carregamento.
+
+Carregue imagens fora da primeira tela de maneira eficiente.
+
+Não instale bibliotecas grandes para efeitos simples.
+
+Configure:
+
+- Título da página.
+- Meta description.
+- Idioma português do Brasil.
+- Hierarquia semântica.
+- Metadados de compartilhamento, quando apropriados.
+- Textos alternativos.
+- Links internos funcionais.
+- URLs canônicas somente quando o domínio real estiver definido.
+- Recursos de SEO compatíveis com o conteúdo existente.
+
+Não invente domínio, endereço comercial, avaliações ou informações para mecanismos de busca.
+
+Evite excesso de palavras-chave e textos feitos apenas para tentar manipular os resultados de pesquisa.
+
+---
+
+## 17. HUMANIZAÇÃO — O SITE NÃO PODE PARECER PRODUZIDO EM SÉRIE
+
+Este é um dos requisitos mais importantes do projeto.
+
+Evite padrões excessivamente associados a sites genéricos de inteligência artificial:
+
+- Hero com título enorme e todas as palavras coloridas por gradientes.
+- Três cartões idênticos repetidos em todas as seções.
+- Ícones decorativos para praticamente todas as informações.
+- Pequenos rótulos em letras maiúsculas antes de todos os títulos.
+- Fundo preto com manchas de luz roxa em todas as áreas.
+- Bordas arredondadas em todos os elementos.
+- Sombras luminosas em botões e cartões sem necessidade.
+- Textos com muitos adjetivos e poucas informações concretas.
+- Frases publicitárias que poderiam pertencer a qualquer agência.
+- Animações aplicadas mecanicamente a todos os componentes.
+- Seções enormes com pouco conteúdo útil.
+
+A originalidade deve surgir da combinação entre conteúdo, composição, tipografia, proporções, imagens e decisões de design.
+
+A página precisa ter ritmo visual. Algumas áreas podem ser mais expressivas; outras devem ser silenciosas e funcionais.
+
+Não tente humanizar o resultado introduzindo erros, inconsistências ou imperfeições artificiais.
+
+A aparência autoral deve ser consequência de um trabalho bem pensado.
+
+### Redação
+
+Escreva em português brasileiro natural.
+
+Evite textos vagos como:
+
+"Oferecemos soluções inovadoras para impulsionar o sucesso do seu negócio."
+
+Prefira comunicar algo que o visitante possa compreender concretamente.
+
+Por exemplo:
+
+"Organize seus serviços, apresente seu trabalho e facilite o contato dos clientes em um único site."
+
+Não repita as mesmas palavras em todos os títulos e descrições.
+
+Não invente histórias pessoais ou resultados.
+
+---
+
+## 18. REQUISITOS TÉCNICOS DE IMPLEMENTAÇÃO
+
+Se estiver trabalhando em um ambiente que permita criar os arquivos do projeto:
+
+- Utilize uma stack moderna e adequada à plataforma disponível.
+- Organize o código por componentes e responsabilidades.
+- Mantenha estilos consistentes.
+- Utilize componentes reutilizáveis quando isso realmente reduzir duplicação.
+- Evite abstrações desnecessárias.
+- Não misture lógica complexa com grandes blocos de marcação sem necessidade.
+- Preserve acessibilidade e semântica.
+- Mantenha os recursos estáticos organizados.
+- Garanta que a navegação e os botões tenham comportamentos reais.
+- Utilize dependências compatíveis com o ambiente.
+- Não introduza chaves de API ou credenciais fictícias.
+- Não exponha segredos em código público.
+- Não simule integração com serviços externos.
+
+Caso a ferramenta utilize um framework específico, respeite sua arquitetura e suas convenções.
+
+Não escolha uma tecnologia simplesmente porque está na moda.
+
+Se estiver usando um construtor visual, implemente as mesmas decisões de design e funcionalidade dentro das ferramentas disponíveis.
+
+---
+
+## 19. TESTES E VERIFICAÇÃO FINAL
+
+Antes de concluir, verifique o site como um usuário real.
+
+Teste:
+
+1. Todos os links de navegação.
+2. Os botões de contato e orçamento.
+3. O acesso aos projetos.
+4. O menu para dispositivos móveis.
+5. Os formulários e seus estados de validação.
+6. O comportamento em diferentes larguras de tela.
+7. A navegação por teclado.
+8. O foco e o contraste dos elementos interativos.
+9. O carregamento das imagens.
+10. A existência de erros de build ou console relacionados à implementação.
+
+Execute os testes e comandos de validação que estiverem disponíveis no ambiente.
+
+Corrija os problemas encontrados antes de finalizar.
+
+Não declare que um formulário, link externo ou integração foi validado se depender de uma configuração que não está disponível.
+
+Não entregue apenas uma descrição do que foi feito. Conclua a implementação.
+
+---
+
+## 20. RESULTADO ESPERADO
+
+O resultado deve apresentar uma Web Creation que seja reconhecível, autoral, profissional e tecnicamente confiável.
+
+O site precisa ter uma identidade visual clara, mas sem excesso de efeitos.
+
+O portfólio deve demonstrar o trabalho de maneira concreta.
+
+O conteúdo precisa parecer escrito para esta marca, e não adaptado de um texto publicitário genérico.
+
+Os serviços devem ser fáceis de compreender.
+
+O processo de desenvolvimento deve reduzir dúvidas.
+
+O contato deve ser simples e funcional.
+
+A experiência mobile deve ter a mesma atenção dedicada ao desktop.
+
+A interface deve ser visualmente interessante sem competir com as informações.
+
+**Não tente impressionar pela quantidade de componentes. Impressione pela qualidade das decisões.**
+
+Crie um site que alguém possa reconhecer pela combinação de sua tipografia, composição, tratamento das imagens e conteúdo, mesmo sem depender de um logotipo grande.
+
+O objetivo final é construir uma marca digital com personalidade própria, que transmita confiança por meio do trabalho e não por meio de efeitos.
+
+### Instrução final
+
+Comece criando a estrutura completa do site e implemente todas as seções descritas.
+
+Tome decisões de design com autonomia, evitando pedir confirmação para escolhas estéticas triviais.
+
+Não apresente apenas um wireframe ou uma página inicial isolada. Entregue a experiência completa, com navegação, portfólio, serviços, processo, contato e rodapé.
+
+Ao finalizar, informe resumidamente o que foi implementado, quais funcionalidades estão operacionais e quais configurações externas ainda são necessárias.
+
+**Crie a Web Creation como se estivesse desenvolvendo um portfólio de referência para um profissional independente de desenvolvimento web: original, funcional, humano e sem aparência de template gerado em massa.**
